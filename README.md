@@ -6,7 +6,7 @@ Tkinter - Tkinter is the standard GUI library for Python.
 MYSQL - The Database module in Python provides The Data.
 
 # Made By
-Abdelrahman Elsayed
+-Abdelrahman Elsayed
 Higher Technological Institute
 Egypt
 
